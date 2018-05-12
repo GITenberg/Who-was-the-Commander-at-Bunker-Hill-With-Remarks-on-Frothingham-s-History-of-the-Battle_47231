@@ -1,10 +1,16 @@
 _repo: Who-was-the-Commander-at-Bunker-Hill-With-Remarks-on-Frothingham-s-History-of-the-Battle_47231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47231-h/images/cover.jpg
 creator:
   author:
     agent_name: Swett, Samuel
     gutenberg_agent_id: '44201'
     url: http://www.gutenberg.org/2009/agents/44201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47231#Who-was-the-Commander-at-Bunker-Hill-With-Remarks-on-Frothingham-s-History-of-the-Battle
 gutenberg_issued: '2014-10-29'
 gutenberg_type: Text
 identifiers:
