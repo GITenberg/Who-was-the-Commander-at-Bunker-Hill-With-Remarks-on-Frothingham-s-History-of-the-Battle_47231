@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Who was the Commander at Bunker Hill?
 
   With Remarks on Frothingham''s History of the Battle'
